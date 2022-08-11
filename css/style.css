@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&family=Orbitron:wght@500&display=swap');
+
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+.titulo{
+    font-family: 'Orbitron', sans-serif;
+    font-size: 2em;
+    color: #fff
+}
+
+.fondoAzul{
+    text-shadow: 0 0 5px #7bacff,
+    0 0 10px #7bacff,
+    0 0 20px #7bacff,
+    0 0 30px #7bacff,
+    0 0 40px #7bacff,
+    0 0 50px #7bacff,
+    0 0 60px #7bacff,
+    0 0 70px #7bacff,
+    0 0 80px #7bacff,
+    0 0 90px #7bacff,
+    0 0 10px #7bacff
+
+}
+
+fondoRojo{
+    text-shadow: 0 0 5px #f51010,
+    0 0 10px #f51010,
+    0 0 20px #f51010,
+    0 0 30px #f51010,
+    0 0 40px #f51010,
+    0 0 50px #f51010,
+    0 0 60px #f51010,
+    0 0 70px #f51010,
+    0 0 80px #f51010,
+    0 0 90px #f51010,
+    0 0 10px #f51010
+
+}
+
+fondoVerde{
+    text-shadow: 0 0 5px #074d1c,
+    0 0 10px #074d1c,
+    0 0 20px #074d1c,
+    0 0 30px #074d1c,
+    0 0 40px #074d1c,
+    0 0 50px #074d1c,
+    0 0 60px #074d1c,
+    0 0 70px #074d1c,
+    0 0 80px #074d1c,
+    0 0 90px #074d1c,
+    0 0 10px #074d1c
+}
+
+.btnAzul{
+    background: #7bacff;
+}
+
+.btnRojo{
+    background: #f51010;
+}
+
+.btnVerde{
+    background: #074d1c;
+}
